@@ -1,3 +1,3 @@
 # Food-Factory
-selling frozen food adn fresh food
+selling frozen food and fresh food
 made with java oop
